@@ -4,7 +4,7 @@ CPSC552 SP25 Final Project
 
 The entire project can be found and run in the notebook and should be directly runnable on Colab. 
 
-If you wish to run classically, these are the requirements:
+If you wish to run locally, these are the requirements:
 
 torch
 
